@@ -23,9 +23,9 @@
     "BOTNAME": "Mirai-V3-Unofficial",
     "PREFIX": "!",
     "BOXADMIN": "6804616456270022",
-    "ADMINBOT": [],
+    "ADMINBOT": [100008190671709],
     "NDH": [
-        "502275138"
+        "100008190671709"
     ],
     "version": "3.0.0",
     "menu": {
